@@ -1,4 +1,4 @@
 # hello-world
 
-Getting started here
+Getting started here.
 Let's get it.
